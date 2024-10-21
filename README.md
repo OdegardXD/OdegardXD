@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OdegardXD
 - 👀 I’m interested in Learning how to code!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML/JS
 - 📫 You can reach me on discord at OdegardXD
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like dogs
